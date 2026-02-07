@@ -1,2 +1,2 @@
 # First-java-program
-Hello World
+My first Hello World program of java  
